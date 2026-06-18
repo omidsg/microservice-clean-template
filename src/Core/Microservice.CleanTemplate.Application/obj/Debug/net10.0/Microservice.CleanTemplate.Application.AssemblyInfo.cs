@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Microservice.CleanTemplate.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78b6cffdee0b0c3c1c68c457a21983726fb9d24e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a44d3542caa197cd0adf3c773eabfaae494066df")]
 [assembly: System.Reflection.AssemblyProductAttribute("Microservice.CleanTemplate.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Microservice.CleanTemplate.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
