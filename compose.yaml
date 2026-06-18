@@ -1,0 +1,7 @@
+﻿services:
+  microservice.cleantemplate.api:
+    image: microservice.cleantemplate.api
+    build:
+      context: .
+      dockerfile: src/Presentation/Microservice.CleanTemplate.Api/Dockerfile
+
