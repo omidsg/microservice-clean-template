@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microservice.CleanTemplate.Domain", "src\Core\Microservice.CleanTemplate.Domain\Microservice.CleanTemplate.Domain.csproj", "{DCEE9880-42A8-4840-A302-7E0695D0D6E7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microservice.CleanTemplate.Application", "src\Core\Microservice.CleanTemplate.Application\Microservice.CleanTemplate.Application.csproj", "{33CD0963-7F76-499C-97FB-C0EC7FF42D1E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{DCEE9880-42A8-4840-A302-7E0695D0D6E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DCEE9880-42A8-4840-A302-7E0695D0D6E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DCEE9880-42A8-4840-A302-7E0695D0D6E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33CD0963-7F76-499C-97FB-C0EC7FF42D1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33CD0963-7F76-499C-97FB-C0EC7FF42D1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33CD0963-7F76-499C-97FB-C0EC7FF42D1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33CD0963-7F76-499C-97FB-C0EC7FF42D1E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
